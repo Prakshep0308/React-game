@@ -3,7 +3,7 @@
 Memory Game build in React and Tailwind
 # Screenshots
 
-![alt text]([assets/images/README_img.png](https://github.com/Prakshep0308/React-game/blob/9198e7faad271e3defbe12ae3d9b0d4b6b12a4d1/public/Screenshot%202024-12-23%20230821.png))
+![alt text](https://github.com/Prakshep0308/React-game/blob/9198e7faad271e3defbe12ae3d9b0d4b6b12a4d1/public/Screenshot%202024-12-23%20230821.png)
 
 
 Currently, two official plugins are available:
